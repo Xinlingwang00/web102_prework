@@ -21,7 +21,7 @@ Submitted by: Xinling Wang
 Here's a quick walkthrough of the completed functionalities:
 
 ![Video Walkthrough](http://i.imgur.com/link/to/your/gif/file.gif)
-
+ my video:https://i.imgur.com/KRQ1sON.gif 
 
 
 ## Challenges Faced
