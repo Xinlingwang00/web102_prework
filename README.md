@@ -1,53 +1,47 @@
-# WEB102 Prework - *Name of App Here*
+# Sea Monster Crowdfunding - Games You Like
 
-Submitted by: **Your Name Here**
+Submitted by: Xinling Wang
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+## Overview
 
-Time spent: **X** hours spent in total
+**Games You Like** is a website designed for Sea Monster Crowdfunding, showcasing detailed information about funded games, their funding status, and summary statistics. This project aims to provide an overview of the games funded by Sea Monster Crowdfunding.
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+### Required Features
+- **Introduction**: Provides background information about Sea Monster Crowdfunding and displays the number of games that remain unfunded.
+- **Stats Section**: Displays information about total contributions, raised funds, and highlights the top two most funded games.
+- **Our Games Section**: Initially shows all funded games and includes buttons to filter funded, unfunded, or display all games.
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
-
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+### Optional Features
+- [ ] Add any optional features or improvements made beyond the required functionalities.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a quick walkthrough of the completed functionalities:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](http://i.imgur.com/link/to/your/gif/file.gif)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
 
-Describe any challenges encountered while building the app.
+## Challenges Faced
+
+Describe any challenges or obstacles encountered during the development of the project.
+
+## Tools Used
+
+- HTML5
+- CSS3
+- JavaScript
+- JSON (for storing game data)
+- Bootstrap (for styling)
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/your_username/sea-monster-crowdfunding.git`
+2. Navigate to the project directory: `cd sea-monster-crowdfunding/`
+3. Open `index.html` in your preferred web browser.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+This project is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
